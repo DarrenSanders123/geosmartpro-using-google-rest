@@ -1,0 +1,15 @@
+{
+  "domain": "geosmartpro",
+  "name": "GeoSmartPro (using google relay)",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/geosmartpro",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@darrensanders123"
+  ],
+  "iot_class": "cloud_push"
+}
